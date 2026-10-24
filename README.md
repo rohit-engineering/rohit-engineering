@@ -121,8 +121,6 @@ flowchart LR
 
 </div>
 
-```> 📌 Pin your 6 best repos on your profile for maximum impact.```
-
 <br/>
 
 ## 🧭 Roadmap: Always Levelling Up
