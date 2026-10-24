@@ -105,7 +105,7 @@ flowchart LR
 
 </div>
 
-> ✏️ Remove any icon you haven't used yet; add ones you have. Full list: [skillicons.dev](https://skillicons.dev)
+```> ✏️ Remove any icon you haven't used yet; add ones you have. Full list: [skillicons.dev](https://skillicons.dev)```
 
 <br/>
 
@@ -121,7 +121,7 @@ flowchart LR
 
 </div>
 
-> 📌 Pin your 6 best repos on your profile for maximum impact.
+```> 📌 Pin your 6 best repos on your profile for maximum impact.```
 
 <br/>
 
@@ -165,7 +165,7 @@ flowchart LR
 
 </div>
 
-> The snake appears after you add the workflow file `.github/workflows/snake.yml` and run it once.
+```> The snake appears after you add the workflow file `.github/workflows/snake.yml` and run it once.```
 
 <br/>
 
@@ -173,15 +173,15 @@ flowchart LR
 
 <div align="center">
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-00ED64?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+<a href="mailto:engineerrohit10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00ED64?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/engineerrohit01"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://engineerrohit01.vercel.com"><img src="https://img.shields.io/badge/PORTFOLIO-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 
 ```json
 { "message": "Let's build something awesome together 🤝", "status": "open to collaborate" }
 ```
 
-> ✏️ Replace the three links with your real ones (delete any you don't use).
+```> ✏️ Replace the three links with your real ones (delete any you don't use).```
 
 </div>
 
