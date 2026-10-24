@@ -165,8 +165,6 @@ flowchart LR
 
 </div>
 
-```> The snake appears after you add the workflow file `.github/workflows/snake.yml` and run it once.```
-
 <br/>
 
 ## 📬 `POST /api/contact`
@@ -180,8 +178,6 @@ flowchart LR
 ```json
 { "message": "Let's build something awesome together 🤝", "status": "open to collaborate" }
 ```
-
-```> ✏️ Replace the three links with your real ones (delete any you don't use).```
 
 </div>
 
